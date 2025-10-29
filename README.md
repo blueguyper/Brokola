@@ -192,7 +192,7 @@
   document.getElementById('lang-fr').onclick = () => switchLang('fr');
 
   function doLogin() {
-    window.location.href = "copilot_image_1761237877305.jpeg";
+    window.location.href = "Lol.md";
   }
 </script>
 
