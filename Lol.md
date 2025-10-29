@@ -1,3 +1,3 @@
-<html>
-  <h1>test</h1>
-</html>
+<body style = background-image: url('copilot_image_1761237877305.jpeg')>
+  
+</body>
