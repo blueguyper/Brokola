@@ -192,7 +192,7 @@
   document.getElementById('lang-fr').onclick = () => switchLang('fr');
 
   function doLogin() {
-    window.location.href = "Lol.md";
+    window.location.href="https://blueguyper.github.io/Lol.md";
   }
 </script>
 
